@@ -7,6 +7,8 @@ FREE UI & HTML Templates for Designer and Developer. Echotemplate is a place whe
 
 This project is a bootstrap version [BD Weather Coming Soon Responsive HTML Template](http://echotemplate.com) designed with HTML & CSS.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/419de352-7abd-4e88-80e4-2abcd4fd9cf3/deploy-status)](https://app.netlify.com/sites/superb-pavlova-2a361c/deploys)
+
 Check the [Live Demo here](http://demo.echotemplate.com/bd-weather-coming-soon-responsive-html-template/).
 
 ![](screenshot.png)
